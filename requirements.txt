@@ -3,3 +3,4 @@ jupyterlab-code-formatter
 isort
 black
 pandas[performance, plot]
+census
