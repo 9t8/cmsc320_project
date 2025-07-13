@@ -4,3 +4,4 @@ isort
 black
 pandas[performance, plot, computation]
 census
+scikit-learn
